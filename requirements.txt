@@ -1,0 +1,7 @@
+
+streamlit
+pymupdf
+deep-translator
+pandas
+openpyxl
+pyttsx3

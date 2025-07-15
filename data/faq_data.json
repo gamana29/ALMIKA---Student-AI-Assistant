@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is the last date to pay exam fees?",
+    "answer": "You should pay your exam fee before July 25 without a fine."
+  },
+  {
+    "question": "What is the minimum attendance requirement?",
+    "answer": "Students need a minimum of 75% attendance to be eligible for exams."
+  },
+  {
+    "question": "How do I apply for revaluation?",
+    "answer": "Visit the college exam portal within 7 days of results to apply for revaluation."
+  },
+  {
+    "question": "How do I register for backlog exams?",
+    "answer": "Backlog registration is done through the student portal before the due date announced."
+  },
+  {
+    "question": "What grading system is followed?",
+    "answer": "Our university follows a 10-point CGPA system."
+  },
+  {
+    "question": "How can I check my internal marks?",
+    "answer": "Internal marks can be viewed in the LMS or student academic portal."
+  },
+  {
+    "question": "Are online certifications considered for credits?",
+    "answer": "Yes, NPTEL/SWAYAM/MOOC certificates are accepted for credit transfer in certain courses."
+  },
+  {
+    "question": "What are the current trending technologies in AI?",
+    "answer": "Generative AI, Explainable AI, and Multi-modal models like GPT-4o are trending now."
+  },
+  {
+    "question": "Which programming languages should I learn?",
+    "answer": "Python, JavaScript, and Java are essential for developers in 2025."
+  },
+  {
+    "question": "What is the difference between CGPA and SGPA?",
+    "answer": "SGPA is for one semester, CGPA is the cumulative GPA over all semesters."
+  },
+  {
+    "question": "How can I apply for internships?",
+    "answer": "Check LinkedIn, Internshala, or college placement cells for internship opportunities."
+  },
+  {
+    "question": "What are some top free platforms to learn coding?",
+    "answer": "FreeCodeCamp, LeetCode, HackerRank, and W3Schools are excellent choices."
+  },
+  {
+    "question": "Can I get placement assistance from the college?",
+    "answer": "Yes, placement training and company drives are coordinated by the college T&P cell."
+  },
+  {
+    "question": "How do I get a bonafide certificate?",
+    "answer": "You can apply online through the college admin portal or directly via the office."
+  },
+  {
+    "question": "What are some good AI/ML projects for students?",
+    "answer": "Chatbots, fake news detectors, image captioning, and predictive analytics are good choices."
+  },
+  {
+    "question": "How can I prepare for competitive coding?",
+    "answer": "Practice on Codeforces, AtCoder, and participate in regular contests."
+  }
+]
