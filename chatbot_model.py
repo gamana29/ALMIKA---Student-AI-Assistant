@@ -2,7 +2,7 @@ import json
 import requests
 
 # ✅ Replace with your OpenRouter key
-API_KEY = "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"
+API_KEY = "sk-or-v1-"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL = "mistralai/mistral-7b-instruct"
 
